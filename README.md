@@ -1,2 +1,2 @@
 # bookbot
-Bootdev course "build a bookbot"
+Boot.dev course "build a bookbot"
